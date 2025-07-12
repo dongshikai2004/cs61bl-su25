@@ -12,6 +12,7 @@ public class Counter {
 
     public void reset() {
         myCount = 0;
+//        myCount = 7;
     }
 
     public int value() {
